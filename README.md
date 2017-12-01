@@ -1,6 +1,4 @@
 # Dragons
-
-# Dragons
 ### Written by Stefan Grant.
 
 **Narrator:** My family tells of an ancient legend about two great Dragon brothers; the Dragon of the North Wind and the Dragon of the South Wind. Together, they upheld balance and harmony in the Heavens.
